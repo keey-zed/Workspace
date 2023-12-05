@@ -9,7 +9,7 @@ PYTHONHASHSEED = 0
 from keras.models import load_model
 
 # define path to save model
-model_path = 'C:\Users\840 G6\projects\SI\workspace\My-Internship\Output\binary_model.h5'
+model_path = 'C:/Users/840 G6/projects/SI/workspace/My-Internship/Output/binary_model.h5'
 
 sequence_length = 50
 nb_features = 25
